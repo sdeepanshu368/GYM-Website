@@ -1,12 +1,12 @@
 {
-  "name": "befitproj",
+  "name": "BeFit",
   "version": "1.0.0",
-  "description": "This is a GYM website for",
+  "description": "This is a GYM website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "DeepanshuSharma",
+  "author": "Deepanshu Sharma",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
